@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning C#/.NET
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: He/Him
 <h3 align="center">Contate-me:</h3>
 
 <div  align="center"> 
