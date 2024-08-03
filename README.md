@@ -1,7 +1,7 @@
 ### Hi there 👋, i'm João Matheus
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Node.JS
 - 😄 Pronouns: He/Him
 <h3 align="center">Contate-me:</h3>
 
